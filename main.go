@@ -1,8 +1,8 @@
 package main
 
 import (
-	"e-commerce-system-using-go/config"
-	"e-commerce-system-using-go/internal/api"
+	"e-commerce-system-using-golang/config"
+	"e-commerce-system-using-golang/internal/api"
 	"log"
 )
 

@@ -1,4 +1,4 @@
-module e-commerce-system-using-go
+module e-commerce-system-using-golang
 
 go 1.24.2
 
